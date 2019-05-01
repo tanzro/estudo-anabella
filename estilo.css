@@ -1,0 +1,26 @@
+body{
+	background-image: url(imagens/fundo.png);
+}
+
+.cor-menu{
+	background-color: #c5c5b2;
+	width: 900px;
+	height: 50px;
+	text-align: center;
+	/*padding: 15px;*/
+}
+
+.conteudo{
+	background-color: #FDFBEE;
+	width: 900px;
+}
+
+.direitos{
+	width: 900px;
+	text-align: center;
+}
+
+a {
+	color: #4b566a;
+	text-decoration: none;
+}
